@@ -1,0 +1,89 @@
+.pfontfamily
+{
+    font-family: New York Extra Large;
+}
+/* .p2fontfamily
+{
+    font-family: SF monospace;
+
+} */
+.head {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 25px;
+  /* text-align: center; */
+  font-family: monospace;
+  margin-bottom: 34
+px
+;
+}
+.line {
+  margin-top: 20px;
+  padding-top: 22px;
+  border-top: 2px solid black;
+}
+.endline {
+  border-top: 3px solid rgb(36, 36, 36);
+}
+.lookimage {
+  position: relative;
+  top: -25px;
+}
+
+hr.new2 {
+    position: absolute;
+width: 1440px;
+height: 0px;
+left: 0px;
+/* top: 3900px; */
+
+border: 2px solid #000000;
+  }
+img.eyeicon
+  {
+   position: absolute;
+width: 82px;
+height: 64.29px;
+left: 679px;
+ top: 4090px; 
+ /* opacity: inherit;  */
+  }
+  hr.new3
+  {
+        border: 5px solid black;
+      }
+.nordic
+{
+font-family: New York Extra Large;
+
+}
+
+#centrlpic{
+  height: 500px;
+  width: 100%;
+  
+  }
+  #caption{
+    font-family: SF Pro Text;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 140%;
+    /* or 22px */
+    
+    text-align: center;
+    
+    color: #000000;
+}
+@media (min-width: 576px)
+{
+.col-sm-12 {
+    flex: 0 0 auto;
+    width: 100%;
+            }
+.here
+{
+  width: 100%;
+
+}
+}
